@@ -1,0 +1,7 @@
+[error] /home/knoldus/WorkSpace/Assignment/project/CommonSettings.scala:3:8: not found: object scoverage
+[error] import scoverage.ScoverageKeys
+[error]        ^
+[error] /home/knoldus/WorkSpace/Assignment/project/CommonSettings.scala:14:5: not found: value ScoverageKeys
+[error]     ScoverageKeys.coverageExcludedFiles := ""
+[error]     ^
+[error] two errors found

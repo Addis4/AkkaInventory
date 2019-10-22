@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scalac-scoverage-runtime
+Implementation-Version: 1.4.0
+Specification-Vendor: org.scoverage
+Specification-Title: scalac-scoverage-runtime
+Implementation-Vendor-Id: org.scoverage
+Specification-Version: 1.4.0
+Implementation-Vendor: org.scoverage
+
