@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/AkkaTest/inventory/target/scala-2.12/inventory_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/inventoryservice/InventoryImpl$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/inventoryservice/InventoryImpl$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/connection/HttpConnection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/connection/HttpConnection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/connection/HttpConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/connection/HttpConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/inventoryservice/InventoryImpl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/inventoryservice/InventoryImpl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/inventoryservice/InventoryImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/inventoryservice/InventoryImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/inventoryservice[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/inventoryservice[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/routes/Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/routes/Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/AkkaTest/inventory/target/scala-2.12/classes/com/knoldus[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

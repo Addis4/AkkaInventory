@@ -1,13 +1,11 @@
 import Dependencies._
 import CommonSettings._
-import scoverage.ScoverageKeys
 
 name := "Assignment"
 
 version := "1.0"
 
 scalaVersion := scala
-//mainClass in (Compile, packageBin) := Some("com.knoldus.inventoryservice.InventoryImpl")
 
 lazy val root = (
   project.in(file(".")).settings(mainClass in (Compile, packageBin) := Some("com/knoldus/inventoryservice/InventoryImpl") , mainClass in (Compile, run) := Some("com.knoldus.inventoryservice.InventoryImpl")
@@ -18,12 +16,7 @@ lazy val root = (
   )
 lazy val inventory = (
   baseProject("inventory")
-    settings(test in assembly := {}, strategy, libraryDependencies ++= compileDeps(inventoryDependencies) ++ testDeps(h2, scalaTest, mock, slickTest2, slickTest3, slickTest4),
-    ScoverageKeys.coverageMinimum := 90,
-    ScoverageKeys.coverageFailOnMinimum := true,
-    ScoverageKeys.coverageExcludedPackages := "",
-    ScoverageKeys.coverageEnabled := true
-  ))
+    settings(test in assembly := {}, strategy, libraryDependencies ++= compileDeps(inventoryDependencies) ++ testDeps(h2, scalaTest, mock, slickTest2, slickTest3, slickTest4)))
 
 def compileDeps(deps: Seq[ModuleID]): Seq[ModuleID] = deps map (_ % "compile")
 
