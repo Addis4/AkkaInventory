@@ -4,7 +4,7 @@
 		module="inventory_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20191022161343"
+		publication="20191024220157"
 	>
 		<description>
 		inventory

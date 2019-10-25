@@ -4,7 +4,7 @@
 		module="akkatest-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20191022161107"
+		publication="20191024183243"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
